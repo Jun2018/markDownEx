@@ -1,3 +1,12 @@
+FirstHead | Send Header
+--------- | -----------
+Data1     | Data2
+
+ | 왼쪽 ~~~~~~~~ | 가운데 ~~~~~~~~ | 오른쪽 ~~~~~~~~ |
+ |:--- |:---:|---:|
+--- | --- | ---
+Data1     | Data2 | Data3
+
 1. 순서가 필요한 목록
 1. 순서가 필요한 목록
    - 순서가 필요하지 않은 목록(서브) 
@@ -22,3 +31,4 @@
 
 
  ![죠르디](https://github.com/Jun2018/markDownEx/blob/master/D8vCc_MU8AAwp2y.jpg)
+
